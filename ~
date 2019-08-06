@@ -1,0 +1,75 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .idea/encodings.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/runConfigurations.xml
+#	new file:   app/.gitignore
+#	new file:   app/build.gradle
+#	new file:   app/proguard-rules.pro
+#	new file:   app/src/androidTest/java/com/xiaowei/skin/ExampleInstrumentedTest.java
+#	new file:   app/src/main/AndroidManifest.xml
+#	new file:   app/src/main/java/com/xiaowei/skin/BaseActivity.java
+#	new file:   app/src/main/java/com/xiaowei/skin/MainActivity.java
+#	new file:   app/src/main/java/com/xiaowei/skin/SkinFactory.java
+#	new file:   app/src/main/java/com/xiaowei/skin/SkinManager.java
+#	new file:   app/src/main/java/com/xiaowei/skin/TwoActivity.java
+#	new file:   app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+#	new file:   app/src/main/res/drawable/ic_launcher_background.xml
+#	new file:   app/src/main/res/layout/activity_main.xml
+#	new file:   app/src/main/res/layout/activity_two.xml
+#	new file:   app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+#	new file:   app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+#	new file:   app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/values/colors.xml
+#	new file:   app/src/main/res/values/strings.xml
+#	new file:   app/src/main/res/values/styles.xml
+#	new file:   app/src/test/java/com/xiaowei/skin/ExampleUnitTest.java
+#	new file:   build.gradle
+#	new file:   gradle.properties
+#	new file:   gradle/wrapper/gradle-wrapper.jar
+#	new file:   gradle/wrapper/gradle-wrapper.properties
+#	new file:   gradlew
+#	new file:   gradlew.bat
+#	new file:   settings.gradle
+#	new file:   skin/.gitignore
+#	new file:   skin/build.gradle
+#	new file:   skin/proguard-rules.pro
+#	new file:   skin/src/androidTest/java/com/xiaowei/skin/ExampleInstrumentedTest.java
+#	new file:   skin/src/main/AndroidManifest.xml
+#	new file:   skin/src/main/java/com/xiaowei/skin/MainActivity.java
+#	new file:   skin/src/main/res/drawable-v24/ic_launcher_foreground.xml
+#	new file:   skin/src/main/res/drawable/ic_launcher_background.xml
+#	new file:   skin/src/main/res/layout/activity_main.xml
+#	new file:   skin/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+#	new file:   skin/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+#	new file:   skin/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   skin/src/main/res/mipmap-hdpi/ic_launcher_round.png
+#	new file:   skin/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   skin/src/main/res/mipmap-mdpi/ic_launcher_round.png
+#	new file:   skin/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   skin/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+#	new file:   skin/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   skin/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+#	new file:   skin/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   skin/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+#	new file:   skin/src/main/res/values/colors.xml
+#	new file:   skin/src/main/res/values/strings.xml
+#	new file:   skin/src/main/res/values/styles.xml
+#	new file:   skin/src/test/java/com/xiaowei/skin/ExampleUnitTest.java
+#
