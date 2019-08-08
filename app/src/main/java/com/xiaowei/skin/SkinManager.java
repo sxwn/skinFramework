@@ -6,9 +6,7 @@ import android.content.pm.PackageManager;
 import android.content.res.AssetManager;
 import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
-
 import androidx.core.content.ContextCompat;
-
 import java.lang.reflect.Method;
 
 /**
